@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @schiism
+- 🌱 I’m currently learning C
+- 📫 My discord is layne46
+- 😄 I use any pronouns
