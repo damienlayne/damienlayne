@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schiism
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m @damienlayne
+- 🌱 I’m currently learning Rust
 - 📫 My discord is layne46
 - 😄 I use any pronouns
